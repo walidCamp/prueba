@@ -150,7 +150,7 @@ WHERE presupuesto = (SELECT MIN(presupuesto) FROM departamento);
 -- 35
 SELECT MAX(presupuesto) AS maximo_presupuesto FROM departamento;
 
-
+-- esto esta hecho desde github
 
 
 
